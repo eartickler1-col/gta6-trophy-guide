@@ -1,10 +1,10 @@
-# gta6-trophy-guide
+# Leonida Trophy Atlas
 
 [![make.fun · gta6-trophy-guide-01](https://make.fun/badge/gta6-trophy-guide-01.svg)](https://make.fun/bounty/gta6-trophy-guide-01?utm_source=github&utm_medium=readme&utm_campaign=gta6-trophy-guide-01)
 [![rank](https://make.fun/badge/gta6-trophy-guide-01/eartickler1-col/gta6-trophy-guide/rank.svg)](https://make.fun/bounty/gta6-trophy-guide-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=gta6-trophy-guide-01)
 [![reward](https://make.fun/badge/gta6-trophy-guide-01/eartickler1-col/gta6-trophy-guide/reward.svg)](https://make.fun/bounty/gta6-trophy-guide-01?utm_source=github&utm_medium=readme&utm_campaign=gta6-trophy-guide-01)
 
-An offline web app that guides and tracks all 55 PlayStation 5 trophies of Grand Theft Auto VI, with saved progress, filters, a spoiler setting, a platinum roadmap, and a cited guide for every trophy. It runs entirely on your own machine and never uploads anything.
+Leonida Trophy Atlas is an offline web app that guides and tracks all 55 PlayStation 5 trophies of Grand Theft Auto VI: the official names, descriptions and grades, a cited guide for every trophy in its own words, a five-stage roadmap to the platinum, missable flags, kind filters, a spoiler setting, and a checklist whose progress is saved in the browser and can be exported to a file and imported back. It runs entirely on your own machine and never uploads anything.
 
 ## Run it
 
